@@ -1,7 +1,7 @@
 # UK-s-favorite-chocolate-bar
 
-To know the distribution of chocolate brands consumed by the people of the UK.
-This will help to view the age distribution better than the other viz.
+To know the distribution of chocolate brands consumed by the people of the UK.   
+This will help to view the age distribution better than the other viz in the challenge.
 
 #MakeoverMondayCoursera hashtag #December2023#week4
 

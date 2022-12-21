@@ -11,3 +11,6 @@ This will help to view the age distribution better than the other viz in the cha
 The below visualization  gives a view to get comparative view of brand popularity score among all the age groups
 
 ![image](https://user-images.githubusercontent.com/66838658/208977516-e482f65a-7a01-41c8-801c-2df67deb1092.png)
+
+
+refer my tablue public account : https://public.tableau.com/app/profile/preshanth.a.r

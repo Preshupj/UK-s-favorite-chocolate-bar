@@ -13,4 +13,4 @@ The below visualization  gives a view to get comparative view of brand popularit
 ![image](https://user-images.githubusercontent.com/66838658/208977516-e482f65a-7a01-41c8-801c-2df67deb1092.png)
 
 
-refer my tablue public account : https://public.tableau.com/app/profile/preshanth.a.r
+refer my tableau public account : https://public.tableau.com/app/profile/preshanth.a.r
